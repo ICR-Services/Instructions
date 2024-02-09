@@ -2,7 +2,7 @@
 
 ### Link to zenodo
 1. Link the github account you use for ICR with zenodo: [Log on to zenodo](https://zenodo.org/login/?next=%2F) and choose to sign in with github
-2. Prepare your services repository, look at [RSE Group](https://github.com/ICR-Services/RSE-Group) as a guide or contact the [RSE Group](mailto: schelpdesk@icr.ac.uk) for assistance.
+2. Prepare your services repository, look at [RSE Group](https://github.com/ICR-Services/RSE-Group) as a guide or contact the [RSE Group](mailto:schelpdesk@icr.ac.uk) for assistance.
   
 - When you navigate to the repo page in zenodo take care to only give access to YOUR repo as you make see a list of institution repos
 
