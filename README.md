@@ -1,4 +1,4 @@
-# Instructions on maintaing repo and dois
+# Instructions on maintaing repo and DOIs
 
 Feel free to contact the [RSE Group](mailto:schelpdesk@icr.ac.uk) for help with any part of this.
 ### Link to zenodo
