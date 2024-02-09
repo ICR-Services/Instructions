@@ -1,4 +1,4 @@
-# Instructions on maintaing repo and DOIs
+# Instructions on linking the repos and DOIs for fixed DOI acknowledgement
 
 Feel free to contact the [RSE Group](mailto:schelpdesk@icr.ac.uk) for help with any part of this.
 ### Link to zenodo
