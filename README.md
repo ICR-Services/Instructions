@@ -2,7 +2,7 @@
 
 ### Link to zenodo
 1. Link the github account you use for ICR with zenodo
-   - [Log on to zenodo](https://zenodo.org/login/) and choose to link with github
+   - [Log on to zenodo]([https://zenodo.org/login/](https://zenodo.org/login/?next=%2F)) and choose to link with github
   
 
 
