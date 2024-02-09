@@ -1,5 +1,6 @@
 # Instructions on maintaing repo and dois
 
+Feel free to contact the [RSE Group](mailto:schelpdesk@icr.ac.uk) for help with any part of this.
 ### Link to zenodo
 1. Link the github account you use for ICR with zenodo: [Log on to zenodo](https://zenodo.org/login/?next=%2F) and choose to sign in with github
    - Make sure you grant access to the Institute of Cancer Research institution when you grant access via github
