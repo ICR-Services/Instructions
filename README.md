@@ -1,6 +1,11 @@
 # Instructions for linking the repos and DOIs for fixed acknowledgement
 
 Feel free to contact the [RSE Group](mailto:schelpdesk@icr.ac.uk) for help with any part of this.
+### Create a repo for your service
+1. You can generate the repo [from the template](https://github.com/ICR-Services/Service-Template)
+   ![image](https://github.com/ICR-Services/Instructions/assets/132372271/752a4a81-568d-45a2-8486-2efb3b9e745a)
+2. Edit the README.md of the repo with your service details.
+   
 ### Link to zenodo
 1. Link the github account you use for ICR with zenodo: [Log on to zenodo](https://zenodo.org/login/?next=%2F) and choose to sign in with github
    - Make sure you grant access to the Institute of Cancer Research institution when you grant access via github
