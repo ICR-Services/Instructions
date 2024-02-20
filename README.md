@@ -19,9 +19,7 @@ Feel free to contact the [RSE Group](mailto:schelpdesk@icr.ac.uk) for help with 
 ### Find your badge
 6. Back on the Zenodo page a badge is automatically created, with a link to a zip of the code, like [![DOI](https://zenodo.org/badge/755024489.svg)](https://zenodo.org/doi/10.5281/zenodo.10638989)
 
-However, be aware that this is a link to the latest release, so this will change with every release. It may be more appropriate to use the explicit most recent version DOI link so that if anyone uses it it refers to the exact version of the services at that time.
-
-To do this, click the DOI button
+However, be aware that this is a link to the latest release, so this will change with every release. It may be more appropriate to use the explicit most recent version DOI link so that if anyone uses it it refers to the exact version of the services at that time. To do this, find the release specific DOI button and use that.
 ![image](https://github.com/ICR-Services/Instructions/assets/132372271/c1ce5507-3036-4d86-8adc-3f582d3cc2af)
 
 Take a copy of the DOI link from the badge (choose link, markdowen etc, I am using markdown in this example)
