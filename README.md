@@ -18,4 +18,24 @@ Feel free to contact the [RSE Group](mailto:schelpdesk@icr.ac.uk) for help with 
 
 ### Find your badge
 6. Back on the Zenodo page a badge is automatically created, with a link to a zip of the code, like [![DOI](https://zenodo.org/badge/755024489.svg)](https://zenodo.org/doi/10.5281/zenodo.10638989)
+<img width="641" alt="image" src="https://github.com/ICR-Services/Instructions/assets/132372271/ab6b1c17-0818-4508-9660-39adb3f21c82">
+
+However, be awre that this is a link to the latest release, so this will change with every release. It may be more apprriate to use the explicit most recent version DOI link so that if anyone uses it it refers to the exact version of the services at that time.
+
+To do this, click the DOI button
+![image](https://github.com/ICR-Services/Instructions/assets/132372271/c1ce5507-3036-4d86-8adc-3f582d3cc2af)
+
+Take a copy of the DOI link from the badge (choose link, markdowen etc, I am using markdown in this example)
+![image](https://github.com/ICR-Services/Instructions/assets/132372271/743d1e8a-35ca-4f08-83f1-dcef07a2db52)
+
+Edit the final number with the number of the release you want used
+![image](https://github.com/ICR-Services/Instructions/assets/132372271/8d031b2e-1394-49d2-95db-87d176131b87)
+
+So the changing latest DOI for this service is this:
+
+But at the time of writing the latest is actually: 
+
+
+
+
 
