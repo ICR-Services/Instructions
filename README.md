@@ -28,13 +28,14 @@ Take a copy of the DOI link from this badge for the pinned version (choose link,
 
 
 Finally, the dynamic DOI for this service is this:
-[![DOI](https://zenodo.org/badge/755024489.svg)](https://zenodo.org/doi/10.5281/zenodo.10638989)
+[![DOI](https://zenodo.org/badge/755024489.svg)](https://zenodo.org/doi/10.5281/zenodo.10638989)  
 ```[![DOI](https://zenodo.org/badge/755024489.svg)](https://zenodo.org/doi/10.5281/zenodo.10638989)```
 
 But at the time of writing the latest is v1.0.5: 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10684363.svg)](https://doi.org/10.5281/zenodo.10684363)  
 ```[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10684363.svg)](https://doi.org/10.5281/zenodo.10684363)```
 
+The number will be the same while b1.0.5 is the most recent release.
 
 
 
