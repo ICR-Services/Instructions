@@ -31,8 +31,12 @@ Edit the final number with the number of the release you want used
 ![image](https://github.com/ICR-Services/Instructions/assets/132372271/8d031b2e-1394-49d2-95db-87d176131b87)
 
 So the changing latest DOI for this service is this:
+[![DOI](https://zenodo.org/badge/755024489.svg)](https://zenodo.org/doi/10.5281/zenodo.10638989)
+```[![DOI](https://zenodo.org/badge/755024489.svg)](https://zenodo.org/doi/10.5281/zenodo.10638989)```
 
-But at the time of writing the latest is actually: 
+But at the time of writing the latest is actually v1.0.5: 
+[![DOI](https://zenodo.org/badge/755024489.svg)](https://zenodo.org/doi/10.5281/zenodo.10684363)
+```[![DOI](https://zenodo.org/badge/755024489.svg)](https://zenodo.org/doi/10.5281/zenodo.10684363)```
 
 
 
