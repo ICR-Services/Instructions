@@ -20,22 +20,20 @@ Feel free to contact the [RSE Group](mailto:schelpdesk@icr.ac.uk) for help with 
 6. Back on the Zenodo page a badge is automatically created, with a link to a zip of the code, like [![DOI](https://zenodo.org/badge/755024489.svg)](https://zenodo.org/doi/10.5281/zenodo.10638989)
 ![image](https://github.com/ICR-Services/Instructions/assets/132372271/c1ce5507-3036-4d86-8adc-3f582d3cc2af)
 
-However, be aware that this is a link to the latest release, so this will change with every release. It may be more appropriate to use the explicit most recent version DOI link so that if anyone uses it it refers to the exact version of the services at that time. To do this, find the release specific DOI button and use that:
+However, be aware that this is a link to the latest release, so this will change with every release. It may be more appropriate to use the explicit most recent version DOI link so that if anyone uses it it refers to the exact version of the services at that time. To do this, find the release specific DOI button and click it:
+![image](https://github.com/ICR-Services/Instructions/assets/132372271/769534f8-2cb4-4f94-8815-f3074cd19d15)
+
+Take a copy of the DOI link from this badge for the pinned version (choose link, markdowen etc, I am using markdown in this example)
+![image](https://github.com/ICR-Services/Instructions/assets/132372271/6448d3e2-a8ae-40cf-9ce5-86a3471fd5b0)
 
 
-Take a copy of the DOI link from the badge (choose link, markdowen etc, I am using markdown in this example)
-![image](https://github.com/ICR-Services/Instructions/assets/132372271/743d1e8a-35ca-4f08-83f1-dcef07a2db52)
-
-Edit the final number with the number of the release you want used
-![image](https://github.com/ICR-Services/Instructions/assets/132372271/8d031b2e-1394-49d2-95db-87d176131b87)
-
-So the changing latest DOI for this service is this:
+Finally, the dynamic DOI for this service is this:
 [![DOI](https://zenodo.org/badge/755024489.svg)](https://zenodo.org/doi/10.5281/zenodo.10638989)  
 ```[![DOI](https://zenodo.org/badge/755024489.svg)](https://zenodo.org/doi/10.5281/zenodo.10638989)```
 
-But at the time of writing the latest is actually v1.0.5: 
-[![DOI](https://zenodo.org/badge/755024489.svg)](https://zenodo.org/doi/10.5281/zenodo.10684363)  
-```[![DOI](https://zenodo.org/badge/755024489.svg)](https://zenodo.org/doi/10.5281/zenodo.10684363)```
+But at the time of writing the latest is v1.0.5: 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10684363.svg)](https://doi.org/10.5281/zenodo.10684363)  
+```[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10684363.svg)](https://doi.org/10.5281/zenodo.10684363)```
 
 
 
