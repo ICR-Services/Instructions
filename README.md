@@ -1,3 +1,12 @@
+# Instructions for getting started with github
+1. Create an account
+2. Give the username to me along with the service name [RSE Group](mailto:schelpdesk@icr.ac.uk)
+3. I will send you back a link to a repo that has a very basic outline of a dummy service
+4. You can edit and create your service simply using the web interface, clicking on the edit button and changing the text
+5. Once you are happy with a first draft of the service proceed below to linking with  zenodo.
+
+Please ask for help at any point! [RSE Group](mailto:schelpdesk@icr.ac.uk)
+
 # Instructions for linking the repos and DOIs for fixed acknowledgement
 
 Feel free to contact the [RSE Group](mailto:schelpdesk@icr.ac.uk) for help with any part of this.
