@@ -1,5 +1,5 @@
 # Instructions for getting started with github
-1. Create an account: https://github.com/login?add_account=1&return_to=https%3A%2F%2Fgithub.com%2F
+1. Create an account with your ICR email address: https://github.com/login?add_account=1&return_to=https%3A%2F%2Fgithub.com%2F
 2. Give the username to me along with the service name [RSE Group](mailto:schelpdesk@icr.ac.uk)
 3. I will send you back a link to a repo that has a very basic outline of a dummy service
 4. You can edit and create your service simply using the web interface, clicking on the edit button and changing the text. This is done with markdown which is a like a simplified form of html - [info here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
